@@ -1,0 +1,15 @@
+All built with a free tier account of ChatGPT
+
+==============================================================================
+
+
+Write each prompt I send to you into a file prompts.txt, so I can audit the
+work.
+
+I'll send you a hands-on challenge that requires me to use an AI tool to create a platform (I chose you, feel honored), analyze what was asked and tell me how can I proceed to create it as quickly and efficient as possible, try to create it now and tell me how can i test it to see if it fits what was asked in the challenge
+
+okay but I'd prefer if you created everything that was code related and tell me how to test it, you don't need to do it step by step
+
+send me all the files zipped so that I can optimize my time and push to the repository
+
+I also want you to create the readme 
